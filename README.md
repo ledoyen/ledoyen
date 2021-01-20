@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+![](https://github-readme-stats.vercel.app/api?username=ledoyen&count_private=false&show_icons=true&theme=highcontrast)
+
+- 🔭 Currently working on building an automatic correction platform
+- :hammer: Occasional contributor to Java open sources projects
+- 🌱 I’m learning Rust on spare time of spare time
+- ⚡ Creator of RabbitMQ-mock for Java  
+[![RabbitMQ-mock Card](https://github-readme-stats.vercel.app/api/pin/?username=fridujo&repo=rabbitmq-mock&theme=highcontrast)](https://github.com/fridujo/rabbitmq-mock)
 
 <!--
 **ledoyen/ledoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
