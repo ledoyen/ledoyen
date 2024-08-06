@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ledoyen&count_private=false&show_icons=true&theme=highcontrast)
 
-- 🔭 Currently working on building an automatic grading platform for programming exercises (https://github.com/lernejo)
+- 🚀 Currently working on building an automatic grading platform for programming exercises (see Korekto [repository](https://github.com/korekto/korekto-shuttle))
 - :hammer: Occasional contributor to Java open sources projects
 - 🌱 I’m learning Rust on spare time of spare time
 - ⚡ Creator of RabbitMQ-mock for Java  
